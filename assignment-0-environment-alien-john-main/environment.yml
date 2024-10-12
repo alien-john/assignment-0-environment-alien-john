@@ -1,0 +1,12 @@
+name: CV
+dependencies:
+  - python=3.11
+  - black
+  - ipykernel
+  - matplotlib
+  - mypy
+  - numpy
+  - pillow
+  - pip
+  - pip:
+    - opencv-python
